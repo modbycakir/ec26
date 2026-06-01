@@ -1,0 +1,9 @@
+These decisions by the CJEU and BGH give strong legal protection. They protect not only cheat software, but also tools like EC26 (Lua speed module) and Sider (hooking tool).
+
+As explained before, Sider does not crack, disassemble, or rewrite the game's original .exe file. Instead, while the game is running, it changes data paths in the computer's RAM. It uses LiveCPK to read different graphics.
+
+Also, Emre Cakir's EC26 mod changes the match speed (to 0.30 or faster). To do this, it only changes the "variables in working memory" (RAM), just like the CJEU said.
+
+Because of the Sony v. Datel court decision, it is very clear: EC26 and Sider do not break Konami's copyright. They only change temporary data in the game. They do not rewrite the permanent game code. They only work in the temporary memory.
+
+This is a very important legal decision. It means big game companies cannot have total control over how their games run on a user's computer (RAM).
